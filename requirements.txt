@@ -3,4 +3,4 @@ torch
 torchvision
 nltk
 numpy
-Gunicorn
+
